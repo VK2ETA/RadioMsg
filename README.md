@@ -6,3 +6,5 @@ To install, download the .apk file in the Releases section into a device then us
 May require that "Install unknown apps" be selected in the Security section of the device. Refer to the Quick Start Guide in the Download section for more detailed information. 
 
 Compatible with Java Pskmail server for PCs (RadioMsg tab).
+
+Assisted by Claude Code from version 3.0 onward.
